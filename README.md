@@ -28,7 +28,7 @@ I focused on segmenting brain tumors from multi-modal MRI scans using the UNETR 
 ## Dataset
 
 For this project, I used the **BraTS2021** dataset, which includes:
-- **MRI Modalities**: T1, T1Gd, T2, and FLAIR images.
+- **MRI Modalities**: FLAIR, T1, T1CE, and T2 images.
 - **Labels**: Segmentation masks that delineate tumor regions.
 
 I organized the dataset using a JSON metadata file (`dataset_metadata.json`) that splits the data into training, validation, and (optionally) test sets.
