@@ -21,7 +21,7 @@ Welcome to my project repository! I developed a brain tumor segmentation pipelin
 
 ## Project Overview
 
-I focused on segmenting brain tumors from multi-modal MRI scans using the UNETR (U-Net Transformer) model. By leveraging transfer learning and advanced data augmentation techniques, I aimed to accurately delineate tumor regions in 3D MRI volumes. This project allowed me to experiment with state-of-the-art medical image segmentation methods in a research setting.
+I focused on segmenting brain tumors from multi-modal MRI scans using the UNETR (U-Net Transformer) model. By leveraging transfer learning and advanced data augmentation techniques, I aimed to accurately delineate tumor regions in 3D MRI volumes. This project allowed me to experiment with medical image segmentation methods in a research setting.
 
 ---
 
